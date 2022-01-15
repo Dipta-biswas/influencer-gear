@@ -249,7 +249,7 @@ mobile device
     .popular-items{
         
         grid-template-columns: repeat(1,1fr);
-        justify-content: center;
+        justify-content: center ;
     }
     .popular-item{
         display: flex;
